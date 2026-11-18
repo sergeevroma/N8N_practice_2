@@ -1,0 +1,14 @@
+# Локальные хранилища заметок
+*.json
+
+# Python и локальное окружение
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Файлы редакторов и ОС
+.idea/
+.vscode/
+.DS_Store
